@@ -13,9 +13,7 @@ import com.vaadin.ui.Label;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.VerticalLayout;
 
-/**
- *
- */
+@SuppressWarnings("serial")
 @Theme("mytheme")
 @Widgetset("net.burakince.MyAppWidgetset")
 public class MyUI extends UI {
