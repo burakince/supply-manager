@@ -14,10 +14,10 @@ Archetype
 mvn archetype:generate \
    -DarchetypeGroupId=com.vaadin \
    -DarchetypeArtifactId=vaadin-archetype-application \
-   -DarchetypeVersion=7.4.8 \
+   -DarchetypeVersion=7.5.0 \
    -DgroupId=net.burakince \
    -DartifactId=supply-manager \
-   -Dversion=1.0 \
+   -Dversion=1.0.0 \
    -Dpackaging=war
 ```
 
